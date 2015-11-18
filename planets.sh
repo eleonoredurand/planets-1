@@ -10,3 +10,8 @@ echo "Earth:"
 cat data/Earth
 echo
 
+echo "Mars:"
+cat data/Mars
+echo
+
+
